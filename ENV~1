@@ -1,0 +1,8 @@
+SECRET_KEY=your-secret-key-here-change-this-to-random-string
+DEBUG=True
+DB_NAME=ai_manufacturing_db
+DB_USER=root
+DB_PASSWORD=root
+DB_HOST=localhost
+DB_PORT=3306
+GEMINI_API_KEY=AIzaSyARfeTfJ6MmoYqOKyUSZCSKmGGVK1Qo_aA
